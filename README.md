@@ -35,21 +35,21 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Prince-025&show_icons=true&theme=default&include_all_commits=true" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=prince-025&show_icons=true&theme=default&include_all_commits=true" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-025&layout=compact&theme=default" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-025&layout=compact&theme=default" height="200px" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-025&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-025&theme=react-dark&hide_border=true" width="100%"/>
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prince-025&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prince-025&theme=default" />
 </p>
 
 ---
